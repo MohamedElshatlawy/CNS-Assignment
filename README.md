@@ -14,8 +14,8 @@ This is a POC for Meteorology to indicate how the app structured and designed
 A step-by-step series of examples that tell you how to get a development environment running.
 
 -  ### Clone the repository:
-    -  git clone https://github.com/yourproject/repository.git
-
+    -  git clone https://github.com/MohamedElshatlawy/CNS-Assignment
+      
 -  ### Navigate to the project directory:
     -  cd repository
     -  Get all the dependencies:
