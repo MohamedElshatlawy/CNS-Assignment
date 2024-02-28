@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "services": "Services",
+  "settings": "Settings",
+  "more": "More",
+  "login": "Login",
+  "user_name": "Username",
+  "password": "Password",
+  "forget_password": "Forget Password?",
+  "not_a_member": "Not a member? ",
+  "register": "Register",
+  "hi": "Hi,",
+  "welcome": "Welcome User"
+}
